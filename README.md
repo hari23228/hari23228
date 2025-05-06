@@ -3,7 +3,8 @@
 
 - 🌱 I’m currently learning :**I’m currently expanding my skills in AWS (Amazon Web Services), focusing on cloud infrastructure, serverless architectures, and scalable solutions for AI applications.**
 
-- 💬 Ask me about :**💡 Artificial Intelligence and Machine Learning | ⚙️ Real-time Problem Solving and Intelligent Automation | 🧠 Image Classification and Model Optimization | 🤖 End-to-End AI System Design | 🤝 Collaboration, Innovation, and Real-World Impact | 📷 Computer Vision and Object Detection**
+- 💬 Ask me about :**💡 Artificial Intelligence and Machine Learning | ⚙️ Real-time Problem Solving and Intelligent Automation | 🧠 Image Classification and Model Optimization | 
+                      🤖 End-to-End AI System Design | 🤝 Collaboration, Innovation, and Real-World Impact | 📷 Computer Vision and Object Detection**
 
 - 📫 How to reach me :**Hariai.td@gmail.com**
 
