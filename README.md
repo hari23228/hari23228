@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Hari Vaarthan T D</h1>
 <h3 align="center">Exploring the Boundless Potential of AI Through Real-Time Problem Solving, Automation, and Innovation</h3>
 
-- 🌱 I’m currently learning **I’m currently expanding my skills in AWS (Amazon Web Services), focusing on cloud infrastructure, serverless architectures, and scalable solutions for AI applications.**
+- 🌱 I’m currently learning :**I’m currently expanding my skills in AWS (Amazon Web Services), focusing on cloud infrastructure, serverless architectures, and scalable solutions for AI applications.**
 
-- 💬 Ask me about **💡 Artificial Intelligence and Machine Learning | ⚙️ Real-time Problem Solving and Intelligent Automation | 🧠 Image Classification and Model Optimization | 🤖 End-to-End AI System Design | 🤝 Collaboration, Innovation, and Real-World Impact | 📷 Computer Vision and Object Detection**
+- 💬 Ask me about :**💡 Artificial Intelligence and Machine Learning | ⚙️ Real-time Problem Solving and Intelligent Automation | 🧠 Image Classification and Model Optimization | 🤖 End-to-End AI System Design | 🤝 Collaboration, Innovation, and Real-World Impact | 📷 Computer Vision and Object Detection**
 
-- 📫 How to reach me **Hariai.td@gmail.com**
+- 📫 How to reach me :**Hariai.td@gmail.com**
 
-- ⚡ Fun fact **I started exploring AI out of curiosity—and now it’s my full-time obsession**
+- ⚡ Fun fact :**I started exploring AI out of curiosity—and now it’s my full-time obsession**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
