@@ -81,7 +81,6 @@
           <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40" />
         </a>
       </p>
-
       <h3 align="left">Automation:</h3>
       <p align="left">
         <a href="https://zapier.com" target="_blank" rel="noreferrer">
