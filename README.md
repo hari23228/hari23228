@@ -19,7 +19,7 @@
 
 <div align="center">
 
-  <table style="width:80%; border-spacing: 30px;">
+  <table style="width:100%; border-spacing: 30px;">
     <tr>
       <!-- Left Column -->
       <td valign="top" align="center" width="50%">
