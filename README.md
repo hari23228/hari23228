@@ -22,7 +22,7 @@
   <table style="width:95%; border-spacing: 40px;">
     <tr>
       <!-- Left Column -->
-      <td valign="top" align="center" width="100%">
+      <td valign="top" align="center" width="50%">
         <h3>Languages</h3>
         <p>
           <a href="https://www.python.org" target="_blank" rel="noreferrer">
