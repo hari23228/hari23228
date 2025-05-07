@@ -8,7 +8,7 @@
 
 - 📫 How to reach me :**Hariai.td@gmail.com**
 
-- ⚡ Fun fact :**I started exploring AI out of curiosity—and now it’s my full-time obsession**
+- ⚡ Fun fact : **I started exploring AI out of curiosity—and now it’s my full-time obsession**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
