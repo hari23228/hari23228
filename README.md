@@ -33,14 +33,12 @@
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
         </a>
       </p>
-
       <h3 align="left">DevOps:</h3>
       <p align="left">
         <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />
         </a>
       </p>
-
       <h3 align="left">Web Development:</h3>
       <p align="left">
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -51,7 +49,6 @@
         </a>
       </p>
     </td>
-
     <!-- Right Column -->
     <td valign="top" width="50%">
       <h3 align="left">Software:</h3>
@@ -63,7 +60,6 @@
           <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40" />
         </a>
       </p>
-
       <h3 align="left">AI / Machine Learning:</h3>
       <p align="left">
         <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
