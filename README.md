@@ -52,7 +52,7 @@
         </p>
       </td>
       <!-- Right Column -->
-      <td valign="top" align="center" width="50%">
+      <td valign="top" align="center" width="100%">
         <h3>Software</h3>
         <p>
           <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
