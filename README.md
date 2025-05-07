@@ -19,7 +19,7 @@
 
 <div align="center">
 
-  <table style="width:100%; border-spacing: 30px;">
+  <table style="width:95%; border-spacing: 40px;">
     <tr>
       <!-- Left Column -->
       <td valign="top" align="center" width="50%">
@@ -41,7 +41,7 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="60" height="50" />
           </a>
         </p>
-        <h3>Web Development</h3>
+        <h3>WebDevelopment</h3>
         <p>
           <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50" />
