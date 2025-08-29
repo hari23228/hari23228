@@ -8,6 +8,8 @@
 - 📫 How to reach me: **Hariai.td@gmail.com**
 
 - ⚡ Fun fact: **I started exploring AI out of curiosity—and now it’s my full-time obsession**
+- 📄 **[Download My Profile as PDF](./Hari_Vaarthan_TD_Profile.pdf)** - Get a printable version of my profile and skills summary
+
 
 - 🏆 Achievement: **I participated in a GenAI hackathon and ranked in the Top 50 out of 500 teams. Our project focused on wildlife poaching and animal detection using AI.**
 
